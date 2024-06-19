@@ -74,47 +74,19 @@ The dataset aims to provide insights into the organization's workforce, project 
 
 ## Part B
 
---1. Write a SQL query to find the average salary of employees who have not resigned, grouped by department and performance level.
-
---2. Find the employee(s) who have the longest tenure (the difference between date_joined and date_resigned or the current date if they haven't resigned) in each department.
-
---3. Write a query to retrieve the names of employees who have worked on projects that have been completed, along with the project names and their respective departments.
-
-
---4. Find the department(s) with the highest average salary 
--- for employees who have not resigned.
-
-
---5. Write a query to retrieve the names of employees who have worked on 
--- projects that have a duration (end_date - start_date) longer than a specified number of days 
-(365 days).
-
-
---6. Find the department(s) with the highest number of resigned employees.
-
---7. Find the project(s) that have the highest number of employees assigned to them, and return the project details (project_name, start_date, end_date, project_status) along with the count of employees.
-
---8. Find the employee(s) who have the highest salary and have not resigned, grouped by department.
-
-
---9. Find the department(s) with the highest average age of employees who have not resigned.
-
-
---10. Find the department(s) that have the highest number of employees who have resigned, 
--- and for each of those departments, return the department name, the count of resigned employees, 
--- and the average tenure (in days) of those resigned employees.
-
-
--- 11. Write a SQL query to find the projects that have employees assigned from at least three different departments, and for each of those projects, return the project name, the count of distinct departments represented, and the average age of employees assigned to that project.
-
-
--- 12. Write a SQL query to find the department(s) that have the highest average salary for employees who have not resigned and have an 'Outstanding' performance level, and return the department name and the average salary rounded to the nearest integer.
-
-
---13. Write a SQL query to find the project(s) that have the highest average age of employees assigned to them, and for each of those projects, return the project name, the average age of employees rounded to the nearest integer, and the count of employees assigned to that project.
-
--- 14. Find the employee(s) who have worked on the most number of projects that have a duration (end_date - start_date) longer than 365 days, and for each of those employees, return their name, the count of projects with duration longer than 365 days, and the average duration (in days) of those projects.
-
-
---15. Find the department(s) with the highest average salary for employees who have worked on completed projects, and return the department name(s) and the corresponding average salary.
+- 1. Write a SQL query to find the average salary of employees who have not resigned, grouped by department and performance level.
+- 2. Find the employee(s) who have the longest tenure (the difference between date_joined and date_resigned or the current date if they haven't resigned) in each department.
+- 3. Write a query to retrieve the names of employees who have worked on projects that have been completed, along with the project names and their respective departments.
+- 4. Find the department(s) with the highest average salary for employees who have not resigned.
+- 5. Write a query to retrieve the names of employees who have worked on projects that have a duration (end_date - start_date) longer than a specified number of days (365 days).
+- 6. Find the department(s) with the highest number of resigned employees.
+- 7. Find the project(s) that have the highest number of employees assigned to them, and return the project details (project_name, start_date, end_date, project_status) along with the count of employees.
+- 8. Find the employee(s) who have the highest salary and have not resigned, grouped by department.
+- 9. Find the department(s) with the highest average age of employees who have not resigned.
+- 10. Find the department(s) that have the highest number of employees who have resigned, and for each of those departments, return the department name, the count of resigned employees, and the average tenure (in days) of those resigned employees.
+- 11. Write a SQL query to find the projects that have employees assigned from at least three different departments, and for each of those projects, return the project name, the count of distinct departments represented, and the average age of employees assigned to that project.
+- 12. Write a SQL query to find the department(s) that have the highest average salary for employees who have not resigned and have an 'Outstanding' performance level, and return the department name and the average salary rounded to the nearest integer.
+- 13. Write a SQL query to find the project(s) that have the highest average age of employees assigned to them, and for each of those projects, return the project name, the average age of employees rounded to the nearest integer, and the count of employees assigned to that project.
+- 14. Find the employee(s) who have worked on the most number of projects that have a duration (end_date - start_date) longer than 365 days, and for each of those employees, return their name, the count of projects with duration longer than 365 days, and the average duration (in days) of those projects.
+- 15. Find the department(s) with the highest average salary for employees who have worked on completed projects, and return the department name(s) and the corresponding average salary.
 
