@@ -71,6 +71,7 @@ The dataset aims to provide insights into the organization's workforce, project 
 - 14. Write an SQL query to find the names of employees who have been assigned to projects where lead department is 'Finance' and 'IT' departments but employees are not in 'Customer Service' department. Return the employee_id, first_name, and last_name. 
 - 15. Write an SQL query to find the average salary of employees for each project. Return the project_id, project_name, and average salary.
 
+[Click here](https://github.com/mosesziregbe/Fintech-Employees-and-Projects-Analysis-with-SQL/blob/main/PartA_employees_and_project_solutions.sql) to see the solutions to Part A.
 
 ## Part B
 
